@@ -32,7 +32,7 @@ src/main/java/org/example/expert/domain/todo/repository/TodoRepository.java
 
 ### Lv.3
 
-1-1. src/test/java/org/example/expert/config/PasswordEncoderTest.java
-2-1. src/test/java/org/example/expert/domain/manager/service/ManagerServiceTest.java
-2-2. src/test/java/org/example/expert/domain/comment/service/CommentServiceTest.java
-2-3. src/main/java/org/example/expert/domain/manager/service/ManagerService.java
+  1-1. src/test/java/org/example/expert/config/PasswordEncoderTest.java
+  2-1. src/test/java/org/example/expert/domain/manager/service/ManagerServiceTest.java
+  2-2. src/test/java/org/example/expert/domain/comment/service/CommentServiceTest.java
+  2-3. src/main/java/org/example/expert/domain/manager/service/ManagerService.java
