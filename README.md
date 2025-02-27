@@ -2,7 +2,7 @@
 
 
 
-##SPRING 심화 주차 개인 과제
+## SPRING 심화 주차 개인 과제
 
 
 필수 기능 완료하였습니다.
@@ -17,7 +17,7 @@ API로깅을 Interceptor를 활용하여 진행하고 있었습니다. 하지만
 
 
 
-###Lv.1
+### Lv.1
 
 1. src/main/java/org/example/expert/domain/auth/service/AuthService.java
 2. src/main/java/org/example/expert/client/WeatherClient.java
@@ -25,12 +25,12 @@ API로깅을 Interceptor를 활용하여 진행하고 있었습니다. 하지만
    src/main/java/org/example/expert/domain/user/service/UserService.java
 
 
-###Lv.2
+### Lv.2
 
 src/main/java/org/example/expert/domain/todo/repository/TodoRepository.java
 
 
-###Lv.3
+### Lv.3
 
 1-1. src/test/java/org/example/expert/config/PasswordEncoderTest.java
 2-1. src/test/java/org/example/expert/domain/manager/service/ManagerServiceTest.java
